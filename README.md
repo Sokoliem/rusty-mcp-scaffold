@@ -16,7 +16,7 @@ This scaffold provides a working MCP server implementation with:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/rusty-mcp-scaffold.git
+   git clone https://github.com/Sokoliem/rusty-mcp-scaffold.git
    cd rusty-mcp-scaffold
    ```
 
